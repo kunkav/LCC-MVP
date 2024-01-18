@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LCC-MVP",
+    "slug": "LCC-MVP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LCC-MVP"
+}

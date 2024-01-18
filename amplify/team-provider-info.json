@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lccmvp-dev-171421-authRole",
+      "UnauthRoleArn": "arn:aws:iam::273872370072:role/amplify-lccmvp-dev-171421-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::273872370072:role/amplify-lccmvp-dev-171421-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-lccmvp-dev-171421-deployment",
+      "UnauthRoleName": "amplify-lccmvp-dev-171421-unauthRole",
+      "StackName": "amplify-lccmvp-dev-171421",
+      "StackId": "arn:aws:cloudformation:ap-south-1:273872370072:stack/amplify-lccmvp-dev-171421/ecce0110-b5f6-11ee-81ce-0614fae352c4",
+      "AmplifyAppId": "d3g2rfjdi9fgue"
+    }
+  }
+}
